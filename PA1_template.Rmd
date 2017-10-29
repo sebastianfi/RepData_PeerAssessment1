@@ -2,10 +2,8 @@
 title: "PA1_template"
 author: "SI"
 date: "27 October 2017"
-output: 
-  html_document:
-   md_document:
-    keep_md: true
+output: md_document
+
 ---
 
 
